@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/zdennyp/robofriends2/static/css/main.bed849bf.chunk.css",
+    "main.js": "/zdennyp/robofriends2/static/js/main.947cafa5.chunk.js",
+    "main.js.map": "/zdennyp/robofriends2/static/js/main.947cafa5.chunk.js.map",
+    "runtime-main.js": "/zdennyp/robofriends2/static/js/runtime-main.3866e5b9.js",
+    "runtime-main.js.map": "/zdennyp/robofriends2/static/js/runtime-main.3866e5b9.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/zdennyp/robofriends2/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.e7e24cc0.chunk.js": "/zdennyp/robofriends2/static/js/2.e7e24cc0.chunk.js",
+    "static/js/2.e7e24cc0.chunk.js.map": "/zdennyp/robofriends2/static/js/2.e7e24cc0.chunk.js.map",
+    "index.html": "/zdennyp/robofriends2/index.html",
+    "precache-manifest.f01d7d16eda58adfc3ea6103d4d6b091.js": "/zdennyp/robofriends2/precache-manifest.f01d7d16eda58adfc3ea6103d4d6b091.js",
+    "service-worker.js": "/zdennyp/robofriends2/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/zdennyp/robofriends2/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.bed849bf.chunk.css.map": "/zdennyp/robofriends2/static/css/main.bed849bf.chunk.css.map",
+    "static/js/2.e7e24cc0.chunk.js.LICENSE.txt": "/zdennyp/robofriends2/static/js/2.e7e24cc0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/zdennyp/robofriends2/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3866e5b9.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.e7e24cc0.chunk.js",
+    "static/css/main.bed849bf.chunk.css",
+    "static/js/main.947cafa5.chunk.js"
+  ]
+}
